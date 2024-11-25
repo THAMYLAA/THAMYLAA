@@ -2,7 +2,7 @@
 
 <!--
 **THAMYLAA/THAMYLAA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
